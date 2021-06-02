@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../views/trips/widgets/trip_list.dart';
+import '../../views/trips/widgets/trip_list.dart';
 import '../../models/trip_model.dart';
 import '../../widgets/dyma_drawer.dart';
 
